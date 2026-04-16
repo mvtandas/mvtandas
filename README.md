@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:4FC08D&height=200&section=header&text=Mustafa%20Vatanda%C5%9F&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Lead%20Frontend%20Developer&descSize=20&descAlignY=65)
+# Mustafa Vatandas
+**Lead Frontend Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvtandas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvtandas@gmail.com)
@@ -111,10 +112,5 @@
 | **Starter Digital Agency** | Frontend Developer | 2021 – 2023 |
 | **Freelance** | Full-Stack Developer | 2020 – Günümüz |
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:4FC08D&height=100&section=footer)
-
-</div>
 <!-- profile-readme -->
 
