@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvtandas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvtandas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvtandas)
-![Visitors](https://komarev.com/ghpvc/?username=mvtandas&style=for-the-badge&color=3178C6)
 
 </div>
 
@@ -90,17 +89,6 @@
 | ![VueUse](https://img.shields.io/badge/-VueUse-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) **vueuse/vueuse** | Bug fix: vElementSize border-box handler | [#5363](https://github.com/vueuse/vueuse/pull/5363) |
 | ![React](https://img.shields.io/badge/-React_Docs_TR-61DAFB?style=flat-square&logo=react&logoColor=black) **reactjs/tr.react.dev** | Translation: Component, PureComponent, isValidElement | [#705](https://github.com/reactjs/tr.react.dev/pull/705) [#706](https://github.com/reactjs/tr.react.dev/pull/706) [#707](https://github.com/reactjs/tr.react.dev/pull/707) |
 | ![Python](https://img.shields.io/badge/-Python_Docs_TR-3776AB?style=flat-square&logo=python&logoColor=white) **python/python-docs-tr** | Translation: argparse, constants, getpass, bisect | [#221](https://github.com/python/python-docs-tr/pull/221) [#225](https://github.com/python/python-docs-tr/pull/225) |
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mvtandas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvtandas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mvtandas&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 
 </div>
 
